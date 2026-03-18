@@ -29,6 +29,8 @@ Partial Class Form1
         txtLastName = New TextBox()
         txtGender = New TextBox()
         btnGo = New Button()
+        lblOccupation = New Label()
+        lstOccupation = New ListBox()
         SuspendLayout()
         ' 
         ' lblGender
@@ -89,11 +91,31 @@ Partial Class Form1
         btnGo.Text = "Go"
         btnGo.UseVisualStyleBackColor = True
         ' 
+        ' lblOccupation
+        ' 
+        lblOccupation.AutoSize = True
+        lblOccupation.Location = New Point(600, 9)
+        lblOccupation.Name = "lblOccupation"
+        lblOccupation.Size = New Size(85, 20)
+        lblOccupation.TabIndex = 8
+        lblOccupation.Text = "Occupation"
+        ' 
+        ' lstOccupation
+        ' 
+        lstOccupation.FormattingEnabled = True
+        lstOccupation.Items.AddRange(New Object() {"Doctor", "Programmer", "Teacher", "Student", "Tailor", "Sailor", "Soldier", "Tinker"})
+        lstOccupation.Location = New Point(600, 42)
+        lstOccupation.Name = "lstOccupation"
+        lstOccupation.Size = New Size(134, 224)
+        lstOccupation.TabIndex = 9
+        ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(lstOccupation)
+        Controls.Add(lblOccupation)
         Controls.Add(btnGo)
         Controls.Add(txtGender)
         Controls.Add(txtLastName)
@@ -114,5 +136,7 @@ Partial Class Form1
     Friend WithEvents txtLastName As TextBox
     Friend WithEvents txtGender As TextBox
     Friend WithEvents btnGo As Button
+    Friend WithEvents lblOccupation As Label
+    Friend WithEvents lstOccupation As ListBox
 
 End Class
