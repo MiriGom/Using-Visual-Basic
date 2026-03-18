@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MiriamApp"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c500abdfd59203ab20c71d7c61a685119598933"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f375b09994f340d4ef4f17f8b9e9e9188c45826"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MiriamApp"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MiriamApp"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

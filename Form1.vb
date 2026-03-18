@@ -17,6 +17,7 @@
         decPayRate = txtPayRate.Text
         decResult = iHoursWorked * decPayRate
 
+
         stOccupation = lstOccupation.SelectedItem
 
 
@@ -24,6 +25,15 @@
                & " making $" & decPayRate & " an hour")
 
         MsgBox("Because you worked " & " " & iHoursWorked & " hours you have made $" & decResult)
+
+        If iHoursWorked < 40 Then
+            MsgBox("You have not worked enough hours to get overtime")
+        ElseIf iHoursWorked = 40 Then
+            MsgBox("You have worked 40 hours, you will not get overtime")
+        ElseIf iHoursWorked > 40 Then
+            MsgBox("You have worked more than 40 hours, you will get overtime")
+
+        End If
 
 
     End Sub
