@@ -1,0 +1,16 @@
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\bin\Debug\net10.0-windows\MiriamApp.exe
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\bin\Debug\net10.0-windows\MiriamApp.deps.json
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\bin\Debug\net10.0-windows\MiriamApp.runtimeconfig.json
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\bin\Debug\net10.0-windows\MiriamApp.dll
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\bin\Debug\net10.0-windows\MiriamApp.pdb
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.Form1.resources
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.vbproj.GenerateResource.cache
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.AssemblyInfoInputs.cache
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.AssemblyInfo.vb
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.vbproj.CoreCompileInputs.cache
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.dll
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\refint\MiriamApp.dll
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.pdb
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\MiriamApp.genruntimeconfig.cache
+C:\Users\miria\OneDrive\Desktop\first-app\MiriamApp\obj\Debug\net10.0-windows\ref\MiriamApp.dll
